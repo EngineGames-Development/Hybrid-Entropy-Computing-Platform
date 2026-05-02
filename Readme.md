@@ -4,6 +4,7 @@ A hardware/software system using optical entropy generation for randomness exper
 
 ![ Alt text](/docs/Entropy1.jpeg)
 ![ Alt text](/docs/Entropy2.jpeg)
+![ Alt text](/docs/EntropyCheck.jpg)
 
 ## Features
 
