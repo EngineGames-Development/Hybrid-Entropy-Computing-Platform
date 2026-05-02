@@ -2,9 +2,9 @@
 
 A hardware/software system using optical entropy generation for randomness experiments, security applications, and AI initialization research.
 
-![ Alt text](/docs/Entropy1.jpeg)
-![ Alt text](/docs/Entropy2.jpeg)
-![ Alt text](/docs/EntropyCheck.jpeg)
+![Picture of the Build without Laser on](/docs/Entropy1.jpeg)
+![Picture of the Build with Laser on](/docs/Entropy2.jpeg)
+![EntropyCheck](/docs/EntropyCheck.jpeg)
 
 ## Features
 
