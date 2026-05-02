@@ -1,0 +1,11 @@
+pyserial>=3.5
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+pandas>=2.0
+torch>=2.0
+qiskit>=1.0
+qiskit-aer>=0.14
+reportlab>=4.0
+notebook>=7.0
+pytest>=8.0
