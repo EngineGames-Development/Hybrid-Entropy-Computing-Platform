@@ -2,6 +2,9 @@
 
 A hardware/software system using optical entropy generation for randomness experiments, security applications, and AI initialization research.
 
+![ Alt text](/docs/Entropy1.jpeg)
+![ Alt text](/docs/Entropy2.jpeg)
+
 ## Features
 
 - Arduino photodiode entropy generator
